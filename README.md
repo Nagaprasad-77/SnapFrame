@@ -100,13 +100,24 @@ Now the app should be running at:
 
 ---
 
+## 🧪 Sample Admin Access (For Testing)
+
+> The following admin account can be used for testing the admin portal:
+
+Username: admin@gmail.com
+Password: 123
+
+> ⚠️ To modify or create admin users, update the `admins.json` file inside the `db/` folder or insert a new admin record in MongoDB manually.
+
+---
+
 ## 📸 Screenshots
 
 ### Accepted Booking Request
 ![accepted-booking-request](assets/screenshots/accepted-booking-request.jpg)
 
 ### Add Portfolio
-![add_portfolio](assets/screenshots/add_portfolio.jpg)
+![add_portfolio](assets/screenshots/add-portfolio.jpg)
 
 ### Add Categories
 ![add-categories](assets/screenshots/add-categories.jpg)
